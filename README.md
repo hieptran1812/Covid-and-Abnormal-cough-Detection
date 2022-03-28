@@ -1,14 +1,4 @@
-# BunChaBERT - Challenge1 - KO Hackathon 2021
-
-<div align = "center"> <img src = "https://user-images.githubusercontent.com/44777689/142732702-fb3c6622-f5b6-4687-87f7-185e24e2dc88.png" /> </div>
-
-## About us
-
-Our team consists of 3 members:
-
-1. Trần Quang Hiệp - PTIT - Backend, AI
-2. Khổng Mạnh Tùng - PTIT - Backend, AI
-3. Đỗ Duy Anh - HUST - Frontend, UX/UI
+# Covid and Abnormal cough detection app
 
 ## Main feature
 
@@ -43,7 +33,7 @@ Expo-cli 4.13.0
 **0. Clone the folder app**
 
 ```sh
-git clone https://github.com/manhtung001/Covid-Detection.git
+git clone 
 ```
 
 **1. Extract the model file to detect abnormal coughs**
@@ -64,7 +54,7 @@ pip3 install -r requirements.txt
 **3. Run Abnormal_cough_detection Api**
 
 ```sh
-python3 backend.py
+python3 serve.py
 ```
 
 **4. Install python package for Covid_detection_and_news**
@@ -81,7 +71,7 @@ pip3 install -r requirements.txt
 **5. Run Covid_detection_and_news Api**
 
 ```sh
-python3 backend.py
+python3 serve.py
 ```
 
 **6. Make sure npm, yarn and expo have already been installed**
@@ -119,6 +109,3 @@ expo start
 
 **10. Notes:** After the app runs successfully, you can test either on the
 simulator or your own smartphone by scanning the QR code on Expo Metro Bundler.
-
-**More details**:
-[Product Introduction](https://docs.google.com/presentation/d/1qONxEO1htEpywhxtx3e9fyZOpD-Yjg52bfWI4bz216g/edit?usp=sharing)
