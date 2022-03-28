@@ -1,0 +1,7 @@
+/**/env
+./**/__pycache__
+**/__pycache__
+./Api/**/env
+./Api/**/__pycache__
+model_abnormal_cough
+.idea/
